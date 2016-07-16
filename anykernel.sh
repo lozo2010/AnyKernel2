@@ -3,7 +3,7 @@
 
 ## AnyKernel setup
 # EDIFY properties
-kernel.string=DirtyV by bsmitty83 @ xda-developers
+kernel.string=RADIOACTIVE Kernel Installer...
 do.devicecheck=1
 do.initd=1
 do.modules=1
@@ -11,7 +11,7 @@ do.cleanup=1
 device.name1=oneplus3
 device.name2=oneplus3
 device.name3=OnePlus3
-device.name4=
+device.name4=ONEPLUS A3003
 device.name5=
 
 # shell variables
